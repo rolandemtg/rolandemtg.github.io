@@ -1,0 +1,49 @@
+h1{color: purple;
+	text-decoration: underline;
+	text-align: center
+}
+
+h2{color: purple;
+	text-decoration: underline;
+	font-size: 30px;
+}
+li{color: blue;
+	font-size: 26px;
+}
+
+img{float:left; L= 200px
+}
+
+section p{ 
+	border: solid 1px;
+} 
+body{
+	background: #FFE4E1;
+}
+selecteur-conteneur{
+	width: 70%
+	padding-top: 110%;
+} 
+h3{
+	color: blue;
+	font-size: 28px;
+}
+h4{
+	color:purple;
+	text-decoration: underline;
+	font-size: 30px;
+}
+h5{
+	color: blue;
+	font-size: 25px;
+}
+p2{
+	font-size: 26px;
+}
+p{
+	font-size: 24px;
+}
+h5{
+	font-size: 25px;
+}
+a{font-size: 24px;}
